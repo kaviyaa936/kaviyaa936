@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**kaviyaa936/kaviyaa936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Kaviya A
 
-Here are some ideas to get you started:
+🎓 B.Tech Artificial Intelligence and Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🌱 Currently learning Java and Python
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💻 Practicing Data Structures and Algorithms
+- 🚀 Building projects to improve my technical skills
+- 🎯 Aspiring Software Developer
+
+## 🛠️ Technical Skills
+- Programming: Java, Python, C
+- Database: SQL
+- Tools: VS Code, Git, GitHub
+
+## 📚 Currently Learning
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Machine Learning
+- Problem Solving
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/kaviyaa936
+
+---
+⭐ Always learning, building, and improving!
